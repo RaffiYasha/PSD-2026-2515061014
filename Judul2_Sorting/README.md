@@ -50,6 +50,10 @@ Source Code :
 38. Mengecek apakah file dijalankan langsung
 39. Menjalankan fungsi utama
 
-Input dan Output :
+Input :
 
-<img width="547" height="209" alt="Screenshot 2026-05-03 112131" src="https://github.com/user-attachments/assets/63a97755-8398-4c41-bd1f-6b3b5496eef5" />
+<img width="249" height="144" alt="Screenshot 2026-05-03 112258" src="https://github.com/user-attachments/assets/84aee2d3-244f-4055-9dc9-231bc3e6f949" />
+
+Output : 
+
+<img width="552" height="60" alt="Screenshot 2026-05-03 112421" src="https://github.com/user-attachments/assets/92e17a6f-18ee-42f3-bb0d-0ff66c70bc33" />
