@@ -9,6 +9,7 @@ Source Code :
 
 <img width="1194" height="1824" alt="carbon mengrutkan nama peserta lomba" src="https://github.com/user-attachments/assets/184f8b18-4537-4c7b-8196-c2f138fc42ba" />
 
+
 1. Mendefinisikan fungsi untuk menukar posisi dua elemen dalam array berdasarkan indeks
 2. Menyimpan sementara nilai pada indeks ke-i
 3. Mengisi posisi i dengan nilai dari posisi j
@@ -48,3 +49,7 @@ Source Code :
 37. 
 38. Mengecek apakah file dijalankan langsung
 39. Menjalankan fungsi utama
+
+Input dan Output :
+
+<img width="547" height="209" alt="Screenshot 2026-05-03 112131" src="https://github.com/user-attachments/assets/63a97755-8398-4c41-bd1f-6b3b5496eef5" />
