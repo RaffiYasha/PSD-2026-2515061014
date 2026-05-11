@@ -9,6 +9,8 @@ Source Code :
 
 <img width="1446" height="1452" alt="carbon searching" src="https://github.com/user-attachments/assets/eb6c6cba-221d-4336-9014-403f4d288a8a" />
 
+
+
 1. Membuat fungsi untuk mencari data secara berurutan.
 2. Membuat indeks awal dari array.
 3. Variabel untuk menghitung jumlah data yang ditemukan.
@@ -42,6 +44,8 @@ Source Code :
 Output Code :
 
 <img width="776" height="92" alt="Screenshot 2026-05-11 225528" src="https://github.com/user-attachments/assets/19733015-e666-4039-bf8b-b0df9d7b6191" />
+
+
 
 Link YouTube : https://youtu.be/axSD8HViMYk
 
