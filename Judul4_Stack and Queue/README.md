@@ -102,3 +102,10 @@ Source Code:
 91. Mengecek apakah file dijalankan sebagai program utama.
 92. Memanggil fungsi main() untuk menjalankan program.
 
+
+Output Code: 
+
+<img width="655" height="857" alt="Screenshot 2026-05-19 220913" src="https://github.com/user-attachments/assets/64aea5aa-22c6-4346-8ba2-11438a14ccdc" />
+
+
+<img width="556" height="592" alt="Screenshot 2026-05-19 220950" src="https://github.com/user-attachments/assets/42558863-03e7-4e77-9ed4-ff0f82583856" />
