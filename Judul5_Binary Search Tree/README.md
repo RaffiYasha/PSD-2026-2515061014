@@ -168,3 +168,26 @@ Source code:
 156. Kosong.
 157. Mengecek apakah file dijalankan sebagai program utama.
 158. Menjalankan fungsi main().
+
+
+Output Code:
+
+<img width="450" height="671" alt="Screenshot 2026-05-25 211142" src="https://github.com/user-attachments/assets/74d0c9d3-bffe-441f-bd55-9e2305aee9db" />
+
+<img width="431" height="660" alt="Screenshot 2026-05-25 211153" src="https://github.com/user-attachments/assets/8eecf561-68e6-40a6-b9f7-010cc1847fa6" />
+
+<img width="534" height="640" alt="Screenshot 2026-05-25 211203" src="https://github.com/user-attachments/assets/3dc5cd26-ce6f-4fb9-8ae3-dd74ec66ac96" />
+
+<img width="518" height="619" alt="Screenshot 2026-05-25 211211" src="https://github.com/user-attachments/assets/e9aceda0-99b1-41af-b064-1fa1c2200222" />
+
+<img width="483" height="611" alt="Screenshot 2026-05-25 211219" src="https://github.com/user-attachments/assets/12c82988-68ca-4297-9f32-c434b97a0281" />
+
+<img width="488" height="629" alt="Screenshot 2026-05-25 211229" src="https://github.com/user-attachments/assets/e479b8f6-0cef-43ff-8028-3a9150c6cc93" />
+
+
+Link You Tube:
+
+
+
+
+
