@@ -1,4 +1,3 @@
-
 class Node:
     def __init__(self, harga):
         self.key = harga
